@@ -10,7 +10,6 @@ if os.path.isfile("data.json"):
     ####
 
 else:
-    # If it doesn't, make an empty dictionary called data
     data = {}
 
 # Get a new recommendation for a new user
